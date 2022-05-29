@@ -66,7 +66,7 @@ export default function Medicine(props) {
     if (selectedPet && selectedPet.idpet) {
       medicineList(selectedPet.idpet).then(res => setList(res.medicines));
     }
-  }, []);
+  }, [selectedPet]);
 
   const renderItem = ({ item }) => (
     <View style={styles.item}>
