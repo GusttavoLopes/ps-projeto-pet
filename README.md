@@ -1,5 +1,7 @@
 ## Pet Project
 
+#### App para controle de gastos e medicamentos de pets.
+
 #### Run
 
 #expo-cli global instalado - $ npm i -g expo-cli
