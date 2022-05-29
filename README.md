@@ -8,8 +8,10 @@ $ npm i -g expo-cli
 
 $ cd pet
 
+$ yarn install
+
 $ expo install ou npm install
 
-$ yarn web ou npm run web
+$ npm start (yarn web ou npm run web)
 
 porta:19006 - http://localhost:19006/
