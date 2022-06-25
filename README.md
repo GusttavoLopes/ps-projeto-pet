@@ -2,6 +2,11 @@
 
 #### App para controle de gastos e medicamentos de pets.
 
+
+#### Fluxo do App
+
+<img src="">
+
 #### Run
 
 #expo-cli global instalado - $ npm i -g expo-cli
