@@ -41,3 +41,5 @@ $ expo install ou npm install
 $ npm start (yarn web ou npm run web)
 
 porta:19006 - http://localhost:19006/
+
+<a href="#top">Back to top</a>
