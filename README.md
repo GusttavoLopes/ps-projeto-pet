@@ -1,12 +1,12 @@
 ## Pet Project
 
-#### App para controle de gastos e medicamentos de pets.
+### App para controle de gastos e medicamentos de pets.
 
-#### Hooks
+### Hooks
 
-#### Contexts
+### Contexts
 
-#### Fluxo do App
+### Fluxo do App
 
 1- Tela Home com os botões que levam para as telas de Login e Cadastro
 
@@ -29,7 +29,7 @@ Tela de Cadastro de um novo medicamento para o pet selecionado
 <img src="https://user-images.githubusercontent.com/50894850/175794014-c1897205-0f07-4cdb-9b63-7338f8505d31.png">
 
 
-#### Run
+### Run
 
 #expo-cli global instalado - $ npm i -g expo-cli
 
