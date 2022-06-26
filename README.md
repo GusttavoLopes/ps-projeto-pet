@@ -2,6 +2,9 @@
 
 #### App para controle de gastos e medicamentos de pets.
 
+#### Hooks
+
+#### Contexts
 
 #### Fluxo do App
 
